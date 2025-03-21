@@ -1,4 +1,4 @@
-# CyberSec-Warfare-The-Future-of-Real-World-Cybersecurity-Training-Competitive-Cyber-War-Gaming
+# CyberSec-Warfare
 > *Created and engineered by Dylan Leonard*  
 <p align="center">
   <img src="https://github.com/dylanleonard-1/CyberSec-Warfare-The-Future-of-Real-World-Cybersecurity-Training-Competitive-Cyber-War-Gaming/blob/main/IMG_9210.jpeg" alt="CyberSec Warfare Logo" width="500"/>
