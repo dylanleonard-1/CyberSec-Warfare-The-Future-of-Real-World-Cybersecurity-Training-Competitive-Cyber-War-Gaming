@@ -136,7 +136,7 @@ This system trains minds to think like attackers and defenders, react dynamicall
 **This project is more than training — it’s the future of cyber warfare simulation and esports-level cyber competition.**  
 
 - [LinkedIn](https://www.linkedin.com/in/dylan-leonard)  
-- Email: **dylan.leonard@example.com** (replace with your email)  
+- Email: **cybersecworkplace@gmail.com**
 - [GitHub Portfolio](https://github.com/YourGitHubUsername)  
 
 ---
